@@ -1,0 +1,58 @@
+{
+
+"signup": {
+
+    "name": "Luiz Oliveira",
+    "cpf": "64084406011",
+    "email": "luiz@xpto.com",
+    "whatsapp": "11999999999",
+    "address": {
+        "postalcode": "04719001",
+        "street": "Rua Verbo Divino",
+        "number": "1356",
+        "details": "bl1 ap5",
+        "district": "Chácara Santo Antônio (Zona Sul)",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+},
+
+"cpf_inv": {
+    "name": "João Joaquim",
+    "cpf": "X40844060AA",
+    "email": "jj@xpto.com",
+    "whatsapp": "11999199999",
+    "address": {
+        "postalcode": "04719001",
+        "street": "Rua Verbo Divino",
+        "number": "1356",
+        "details": "bl1 ap5",
+        "district": "Chácara Santo Antônio (Zona Sul)",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+
+},
+
+"email_inv": {
+    "name": "João Joaquim",
+    "cpf": "14084406066",
+    "email": "jj.com.br",
+    "whatsapp": "11999199999",
+    "address": {
+        "postalcode": "04719001",
+        "street": "Rua Verbo Divino",
+        "number": "1356",
+        "details": "bl1 ap5",
+        "district": "Chácara Santo Antônio (Zona Sul)",
+        "city_state": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+
+
+}
+
+}
